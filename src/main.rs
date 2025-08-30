@@ -6,8 +6,9 @@ struct Square {
 struct Square2 {
     Width: u32,
     Height: u32,
-    
+}
 
+fn Multiply(&Square: Square) {
 
 }
 
