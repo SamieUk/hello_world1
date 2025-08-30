@@ -4,7 +4,8 @@ struct Square {
 }
 
 struct Square2 {
-    Width:32,
+    Width: u32,
+    Height: u32,
     
 
 
