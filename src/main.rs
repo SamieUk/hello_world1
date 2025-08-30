@@ -1,5 +1,6 @@
 struct Square {
     Width: u32,
+    Height: u32,
 
 
 }
