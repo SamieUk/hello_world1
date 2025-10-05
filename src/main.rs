@@ -14,4 +14,5 @@ fn Multiply(&Square: Square) {
 
 fn main() {
     println!("Hello, world!");
+    println!("Simple hello message");
 }
